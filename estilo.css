@@ -16,3 +16,14 @@ body {
     top: calc(50%-10px);
     color: white;
 }
+
+.fontes ul {
+    list-style: none;
+    line-height: 1.5em;
+}
+
+.fontes h1 {
+    color: white;
+    margin-left: 17px;
+    margin-top: 20px;
+}
