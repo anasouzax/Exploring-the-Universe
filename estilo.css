@@ -1,0 +1,18 @@
+/*imagem de fundo*/
+body {
+    background-image: url("imagens/fundo\ gif.gif");
+}
+
+/*estilo do título*/
+#titulo {
+    background-color: white;
+    color: black;
+    font-family: cursive;
+}
+
+#terra {
+    position: absolute;
+    left: calc(50%-10px);
+    top: calc(50%-10px);
+    color: white;
+}
